@@ -3,6 +3,8 @@
 
 Me in your Terminal
 
+Built with Deno 🦕
+
 #### Licence
 
 This project is under [MIT](https://github.com/makuzaverite/veritem/blob/main/LICENSE) Licence
