@@ -1,4 +1,3 @@
-import {init} from "./lib/index.ts"
+import { init } from "./lib/index.ts";
 
-
-console.log(init())
+console.log(init());

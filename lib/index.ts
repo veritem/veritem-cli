@@ -1,3 +1,3 @@
-export function init(){
-    return "Hello World!"
+export function init() {
+  return "Hello World!";
 }
