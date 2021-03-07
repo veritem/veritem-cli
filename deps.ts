@@ -9,3 +9,4 @@ export {
   red,
   yellow,
 } from "https://deno.land/std/fmt/colors.ts";
+export { open } from "https://deno.land/x/opener/mod.ts";
