@@ -1,9 +1,10 @@
 export { assertEquals } from "https://deno.land/std@0.89.0/testing/asserts.ts";
-export { Args, parse } from "https://deno.land/std@$STD_VERSION/flags/mod.ts";
+export { parse } from "https://deno.land/std/flags/mod.ts";
 export {
   bold,
   cyan,
   green,
+  italic,
   magenta,
   red,
   yellow,

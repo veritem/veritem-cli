@@ -1,3 +1,1 @@
-export function init() {
-  return "Initialized";
-}
+export { Header } from "./header.ts";
