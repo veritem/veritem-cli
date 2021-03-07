@@ -3,8 +3,8 @@
 [![CI](https://github.com/makuzaverite/veritem/actions/workflows/ci.yml/badge.svg)](https://github.com/makuzaverite/veritem/actions/workflows/ci.yml)
 >Me in your Terminal
 
-
 Example:
+
 ```bash
 Makuza Mugabo Verite
 Curious Open source developer
