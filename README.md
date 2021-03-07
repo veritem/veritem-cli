@@ -27,6 +27,9 @@ Commands
  $ birthDay,bd           View his cake date
 ```
 
+To setup this on linux you just need to download it's binary [here](https://github.com/makuzaverite/veritem/blob/main/bin/veritem) and execute it
+
+
 Built with Deno 🦕
 
 #### Licence
