@@ -14,7 +14,7 @@ Version: 0.0.1
 Usage: veritem [command] [option]
 
 Options
- -h,--help               Shows Help message
+ -h,--help               Shows Help messages
  -v,--version            Show the current version of cli
 
 
