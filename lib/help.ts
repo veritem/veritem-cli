@@ -1,5 +1,7 @@
 import { bold } from "../deps.ts";
 
+// Help commands
+
 export const HelpMessage = () => {
   console.log(`Usage: veritem [command] [option]\n`);
   console.log(`Options`);
