@@ -5,7 +5,6 @@
 Me in your Terminal
 
 ```bash
-
 Makuza Mugabo Verite
 Curious Open source developer
 Version: 0.0.1
